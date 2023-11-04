@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "rxjs": "^7.8.1",
+    "rxjs-compat": "^6.6.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
